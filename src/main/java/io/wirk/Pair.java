@@ -1,6 +1,6 @@
 package io.wirk;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2018-10-02T13:29:35.180Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2019-04-25T10:42:40.433Z")
 public class Pair {
     private String name = "";
     private String value = "";
